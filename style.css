@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(219, 244, 223);
+}
+nav {
+    background-color: rgb(195, 241, 198);
+}
+h1, h2 {
+    margin-bottom: 5px;
+}
+#navlist {
+    list-style-type: none;
+    padding: 0;
+    display: flex;
+}
+li {
+    margin-bottom: 5px;
+}
+hr {
+    border: 2px solid green;
+}
